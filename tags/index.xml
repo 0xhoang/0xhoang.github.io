@@ -1,102 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hoang&#39;s Pipeline</title>
-    <link>https://0xhoang.github.io/</link>
-    <description>Recent content on Hoang&#39;s Pipeline</description>
+    <title>Tags on Hoang&#39;s Pipeline</title>
+    <link>https://0xhoang.github.io/tags/</link>
+    <description>Recent content in Tags on Hoang&#39;s Pipeline</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright</copyright>
-    <lastBuildDate>Tue, 08 Feb 2022 02:01:58 +0530</lastBuildDate><atom:link href="https://0xhoang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Now I&#39;m working at Tiki</title>
-      <link>https://0xhoang.github.io/2022/02/now-im-working-at-tiki/</link>
-      <pubDate>Tue, 08 Feb 2022 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2022/02/now-im-working-at-tiki/</guid>
-      <description>What I did Project: Sandseel - Platform for Exchange Market
-Base on Peatio open source Peatio Build Restful APIs (Ruby on Rails, Grape) RubyOnRails Build admin tool Project: Sandseel Util - Platform for Deposit/Withdraw
-Build Restful APIs (Golang) Golang Build workflow deposit onchain to offchain Build workflow withdraw offchain to onchain Build client SDK, research Cosmos Chain (Validator, IBC, RPC, HD Wallet). Cosmos </description>
-    </item>
-    
-    <item>
-      <title>Blockchain with Incognito chain</title>
-      <link>https://0xhoang.github.io/2020/02/blockchain-with-incognito-chain/</link>
-      <pubDate>Fri, 07 Feb 2020 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2020/02/blockchain-with-incognito-chain/</guid>
-      <description>Introduction Incognito is a blockchain platform Website: https://incognito.org What I did Project: Incognito chain - Platform for Privacy Blockchain
-Join coding some feature for Core Incognito chain Project: Blockchain Backend - Platform microservice for Incognito Wallet
-Convert monolithic architecture to microservice architecture Coding some feature for Shielded/Un-Shielded service Coding some feature for Farming/Pool Provider service Build service for managing validator node Build service for trading token Build SDK Use Golang, Restfull Api Project: Explore incognito chain - Platform for delivery data and storage data</description>
-    </item>
-    
-    <item>
-      <title>Starting my professional job at Tiki</title>
-      <link>https://0xhoang.github.io/2016/08/starting-my-professional-job-at-tiki/</link>
-      <pubDate>Sat, 06 Aug 2016 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2016/08/starting-my-professional-job-at-tiki/</guid>
-      <description>Introduction Tiki is Marketplace for eCommerce Brands and Seller Website: https://www.tiki.vn What I did I build very much project at Tiki, I will list some project I build
-Project: Talaria - Platform for Order, Inventory, Shipping, Fulfillment, Checkout
-Build function test for Talaria Build API restful for Talaria (PHP, Laravel, Falcon) Laravel Build payment gateway (Cybersource, 123pay, Momo, Zalopay, Onepay) Build Restful APIs Maintain and upgrade core structure Support bug technical for another team and customer.</description>
-    </item>
-    
-    <item>
-      <title>I have a new job at Zinio</title>
-      <link>https://0xhoang.github.io/2015/12/i-have-a-new-job-at-zinio/</link>
-      <pubDate>Sat, 05 Dec 2015 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2015/12/i-have-a-new-job-at-zinio/</guid>
-      <description>Introduction Zinio is Digital eMagazines company Website: https://www.zinio.com What I did Project: Zenit - Platform for managing digital magazines as Identity user, subscription, payment, content, etc.
-Build the API Restful for the system (PHP, Symfony) Symfony Research Search Engine use ElasticSearch Elastic Improve the system’s performance (improve sql query, apply caching) Maintain and ensure that the system is not downtime Testing by Unit test/Function test Write documentation for API. </description>
-    </item>
-    
-    <item>
-      <title>I have a new job at CCIntegration</title>
-      <link>https://0xhoang.github.io/2014/08/i-have-a-new-job-at-ccintegration/</link>
-      <pubDate>Mon, 04 Aug 2014 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2014/08/i-have-a-new-job-at-ccintegration/</guid>
-      <description>Introduction CCIntegration is product company Website: https://www.ccintegration.com What I did Build frontend with AngularJS AngularJs Build basic Msg with RabbitMQ RabbitMQ </description>
-    </item>
-    
-    <item>
-      <title>My second job at Moxs</title>
-      <link>https://0xhoang.github.io/2014/02/my-second-job-at-moxs/</link>
-      <pubDate>Mon, 03 Feb 2014 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2014/02/my-second-job-at-moxs/</guid>
-      <description>Introduction Moxs is eCommerce company
-What I did Build a website with Shopware opensource (PHP) Shopware </description>
-    </item>
-    
-    <item>
-      <title>Starting my first job at Esc.vn</title>
-      <link>https://0xhoang.github.io/2011/08/starting-my-first-job-at-esc.vn/</link>
-      <pubDate>Tue, 02 Aug 2011 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2011/08/starting-my-first-job-at-esc.vn/</guid>
-      <description>Introduction Esc Company is small team. I was assigned to develop a website for our customer. Website: https://www.esc.vn What I did Build a website with ASP.NET MVC, Jquery, Ajax, SQL Server jQuery Build a website with TomatoCart opensource (PHP) TomatoCart </description>
-    </item>
-    
-    <item>
-      <title>Encourage the college student to acquire knowledge about computers.</title>
-      <link>https://0xhoang.github.io/2008/08/encourage-the-college-student-to-acquire-knowledge-about-computers./</link>
-      <pubDate>Fri, 01 Aug 2008 02:01:58 +0530</pubDate>
-      
-      <guid>https://0xhoang.github.io/2008/08/encourage-the-college-student-to-acquire-knowledge-about-computers./</guid>
-      <description>Fundamental Elementary Algorithm and Data Structure Build monolithic website about Ecommerce Frontend Coding basic with Html, Css, Javascript
-Backend Coding basic with Php, Mysql, C, C#, Java, Winforms, ASP.NET MVC</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://0xhoang.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0xhoang.github.io/about/</guid>
-      <description>My name is Hoàng. I&amp;rsquo;m a Software Engineering living in Ho Chi Minh City. This is my website.</description>
-    </item>
-    
+    <copyright>© Copyright</copyright><atom:link href="https://0xhoang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
