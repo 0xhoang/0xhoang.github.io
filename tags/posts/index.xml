@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hoang&#39;s Pipeline</title>
-    <link>https://0xhoang.github.io/</link>
-    <description>Recent content on Hoang&#39;s Pipeline</description>
+    <title>Posts on Hoang&#39;s Pipeline</title>
+    <link>https://0xhoang.github.io/posts/</link>
+    <description>Recent content in Posts on Hoang&#39;s Pipeline</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright</copyright>
-    <lastBuildDate>Tue, 08 Feb 2022 02:01:58 +0530</lastBuildDate><atom:link href="https://0xhoang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Feb 2022 02:01:58 +0530</lastBuildDate><atom:link href="https://0xhoang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Now I&#39;m working at Tiki</title>
       <link>https://0xhoang.github.io/2022/02/now-im-working-at-tiki/</link>
@@ -87,15 +87,6 @@ What I did Build a website with Shopware opensource (PHP) Shopware </description
       <guid>https://0xhoang.github.io/2008/08/encourage-the-college-student-to-acquire-knowledge-about-computers./</guid>
       <description>Fundamental Elementary Algorithm and Data Structure Build monolithic website about Ecommerce Frontend Coding basic with Html, Css, Javascript
 Backend Coding basic with Php, Mysql, C, C#, Java, Winforms, ASP.NET MVC</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://0xhoang.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0xhoang.github.io/about/</guid>
-      <description>My name is Hoàng. I&amp;rsquo;m a Software Engineering living in Ho Chi Minh City. This is my website.</description>
     </item>
     
   </channel>
