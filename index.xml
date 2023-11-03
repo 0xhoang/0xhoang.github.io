@@ -9,93 +9,115 @@
     <copyright>© Copyright</copyright>
     <lastBuildDate>Tue, 08 Feb 2022 02:01:58 +0530</lastBuildDate><atom:link href="https://0xhoang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Now I&#39;m working at Tiki</title>
-      <link>https://0xhoang.github.io/2022/02/now-im-working-at-tiki/</link>
+      <title>My Return to Tiki: A New Chapter</title>
+      <link>https://0xhoang.github.io/2022/02/my-return-to-tiki-a-new-chapter/</link>
       <pubDate>Tue, 08 Feb 2022 02:01:58 +0530</pubDate>
       
-      <guid>https://0xhoang.github.io/2022/02/now-im-working-at-tiki/</guid>
-      <description>What I did Project: Sandseel - Platform for Exchange Market
-Base on Peatio open source Peatio Build Restful APIs (Ruby on Rails, Grape) RubyOnRails Build admin tool Project: Sandseel Util - Platform for Deposit/Withdraw
-Build Restful APIs (Golang) Golang Build workflow deposit onchain to offchain Build workflow withdraw offchain to onchain Build client SDK, research Cosmos Chain (Validator, IBC, RPC, HD Wallet). Cosmos </description>
+      <guid>https://0xhoang.github.io/2022/02/my-return-to-tiki-a-new-chapter/</guid>
+      <description>Introduction In early 2022, I made the exciting decision to return to Tiki, a company close to my heart. The driving force behind this decision was the exceptional team and the company&amp;rsquo;s inspiring mission.
+What I&amp;rsquo;ve Been Up To Upon my return to Tiki, I embarked on several remarkable projects, making a significant impact:
+Project: Sandseel - The Exchange Market Platform
+Leveraging the open-source Peatio framework Peatio, I worked on developing this platform.</description>
     </item>
     
     <item>
-      <title>Blockchain with Incognito chain</title>
-      <link>https://0xhoang.github.io/2020/02/blockchain-with-incognito-chain/</link>
+      <title>Exploring the World of Incognito Chain</title>
+      <link>https://0xhoang.github.io/2020/02/exploring-the-world-of-incognito-chain/</link>
       <pubDate>Fri, 07 Feb 2020 02:01:58 +0530</pubDate>
       
-      <guid>https://0xhoang.github.io/2020/02/blockchain-with-incognito-chain/</guid>
-      <description>Introduction Incognito is a blockchain platform Website: https://incognito.org What I did Project: Incognito chain - Platform for Privacy Blockchain
-Join coding some feature for Core Incognito chain Project: Blockchain Backend - Platform microservice for Incognito Wallet
-Convert monolithic architecture to microservice architecture Coding some feature for Shielded/Un-Shielded service Coding some feature for Farming/Pool Provider service Build service for managing validator node Build service for trading token Build SDK Use Golang, Restfull Api Project: Explore incognito chain - Platform for delivery data and storage data</description>
+      <guid>https://0xhoang.github.io/2020/02/exploring-the-world-of-incognito-chain/</guid>
+      <description>Introduction Joining the dynamic world of Incognito, a blockchain platform, opened up exciting opportunities to delve into the realm of blockchain and privacy-enhancing technologies.
+Website: https://incognito.org
+My Role and Contributions During my time with Incognito, I was involved in several significant projects:
+Project: Incognito Chain - Platform for Privacy Blockchain
+Made modest contributions to core Incognito Chain features Project: Blockchain Backend - Microservices for Incognito Wallet
+Transformed the architecture from monolithic to microservices, enhancing scalability and modularity.</description>
     </item>
     
     <item>
-      <title>Starting my professional job at Tiki</title>
-      <link>https://0xhoang.github.io/2016/08/starting-my-professional-job-at-tiki/</link>
+      <title>Embarking on a Professional Journey at Tiki</title>
+      <link>https://0xhoang.github.io/2016/08/embarking-on-a-professional-journey-at-tiki/</link>
       <pubDate>Sat, 06 Aug 2016 02:01:58 +0530</pubDate>
       
-      <guid>https://0xhoang.github.io/2016/08/starting-my-professional-job-at-tiki/</guid>
-      <description>Introduction Tiki is Marketplace for eCommerce Brands and Seller Website: https://www.tiki.vn What I did I build very much project at Tiki, I will list some project I build
+      <guid>https://0xhoang.github.io/2016/08/embarking-on-a-professional-journey-at-tiki/</guid>
+      <description>Introduction Joining the dynamic world of Tiki, a thriving marketplace for eCommerce brands and sellers, marked a significant step in my professional journey.
+Website: https://www.tiki.vn
+My Role and Contributions During my tenure at Tiki, I had the opportunity to work on various projects. Here are some of the key projects I was involved in:
 Project: Talaria - Platform for Order, Inventory, Shipping, Fulfillment, Checkout
-Build function test for Talaria Build API restful for Talaria (PHP, Laravel, Falcon) Laravel Build payment gateway (Cybersource, 123pay, Momo, Zalopay, Onepay) Build Restful APIs Maintain and upgrade core structure Support bug technical for another team and customer.</description>
+Built comprehensive function tests for Talaria, ensuring its reliability.</description>
     </item>
     
     <item>
-      <title>I have a new job at Zinio</title>
-      <link>https://0xhoang.github.io/2015/12/i-have-a-new-job-at-zinio/</link>
+      <title>My New Job at Zinio</title>
+      <link>https://0xhoang.github.io/2015/12/my-new-job-at-zinio/</link>
       <pubDate>Sat, 05 Dec 2015 02:01:58 +0530</pubDate>
       
-      <guid>https://0xhoang.github.io/2015/12/i-have-a-new-job-at-zinio/</guid>
-      <description>Introduction Zinio is Digital eMagazines company Website: https://www.zinio.com What I did Project: Zenit - Platform for managing digital magazines as Identity user, subscription, payment, content, etc.
-Build the API Restful for the system (PHP, Symfony) Symfony Research Search Engine use ElasticSearch Elastic Improve the system’s performance (improve sql query, apply caching) Maintain and ensure that the system is not downtime Testing by Unit test/Function test Write documentation for API. </description>
+      <guid>https://0xhoang.github.io/2015/12/my-new-job-at-zinio/</guid>
+      <description>Introduction At Zinio, a digital eMagazines company, I found myself in a dynamic and diverse work environment.
+Website: https://www.zinio.com
+What I Did One of the key projects I worked on during my time at Zinio was:
+Project: Zenit - Digital Magazine Management Platform
+I played a significant role in building the API for this platform, leveraging PHP and Symfony. Technology used: Symfony I conducted research on search engines and implemented ElasticSearch to enhance content discovery.</description>
     </item>
     
     <item>
-      <title>I have a new job at CCIntegration</title>
-      <link>https://0xhoang.github.io/2014/08/i-have-a-new-job-at-ccintegration/</link>
+      <title>My New Job at CCIntegration</title>
+      <link>https://0xhoang.github.io/2014/08/my-new-job-at-ccintegration/</link>
       <pubDate>Mon, 04 Aug 2014 02:01:58 +0530</pubDate>
       
-      <guid>https://0xhoang.github.io/2014/08/i-have-a-new-job-at-ccintegration/</guid>
-      <description>Introduction CCIntegration is product company Website: https://www.ccintegration.com What I did Build frontend with AngularJS AngularJs Build basic Msg with RabbitMQ RabbitMQ </description>
+      <guid>https://0xhoang.github.io/2014/08/my-new-job-at-ccintegration/</guid>
+      <description>Introduction At CCIntegration, a product company, I embarked on a new phase of my career.
+Website: https://www.ccintegration.com
+What I Did During my time at CCIntegration, my main responsibilities included:
+Frontend Development with AngularJS:
+I worked on building the frontend of web applications using AngularJS, a popular JavaScript framework. Technology used: AngularJS Message Queues with RabbitMQ:
+I gained experience in building and managing basic message queues using RabbitMQ, a robust messaging platform.</description>
     </item>
     
     <item>
-      <title>My second job at Moxs</title>
+      <title>My Second Job at Moxs</title>
       <link>https://0xhoang.github.io/2014/02/my-second-job-at-moxs/</link>
       <pubDate>Mon, 03 Feb 2014 02:01:58 +0530</pubDate>
       
       <guid>https://0xhoang.github.io/2014/02/my-second-job-at-moxs/</guid>
-      <description>Introduction Moxs is eCommerce company
-What I did Build a website with Shopware opensource (PHP) Shopware </description>
+      <description>Introduction At Moxs, an eCommerce company, I continued to expand my experience in the field.
+What I Did During my time at Moxs, my primary project was:
+Shopware Open Source Website (PHP): I was involved in the development of a website using the open-source platform Shopware. This project was built using PHP. Repository: Shopware My work at Moxs allowed me to delve further into eCommerce and open-source technologies, contributing to my growth in the field.</description>
     </item>
     
     <item>
-      <title>Starting my first job at Esc.vn</title>
+      <title>Starting My First Job at Esc.vn</title>
       <link>https://0xhoang.github.io/2011/08/starting-my-first-job-at-esc.vn/</link>
       <pubDate>Tue, 02 Aug 2011 02:01:58 +0530</pubDate>
       
       <guid>https://0xhoang.github.io/2011/08/starting-my-first-job-at-esc.vn/</guid>
-      <description>Introduction Esc Company is small team. I was assigned to develop a website for our customer. Website: https://www.esc.vn What I did Build a website with ASP.NET MVC, Jquery, Ajax, SQL Server jQuery Build a website with TomatoCart opensource (PHP) TomatoCart </description>
+      <description>Introduction At Esc Company, I joined a small but dedicated team with the exciting task of developing a website for our client.
+Website: https://www.esc.vn
+What I did During my time at Esc.vn, I worked on the following projects:
+ASP.NET MVC Website:
+Developed a website using ASP.NET MVC, jQuery, and Ajax. Utilized SQL Server for database management. Technologies used: jQuery TomatoCart Open Source Website (PHP):
+Created a website using the open-source platform TomatoCart.</description>
     </item>
     
     <item>
-      <title>Encourage the college student to acquire knowledge about computers.</title>
-      <link>https://0xhoang.github.io/2008/08/encourage-the-college-student-to-acquire-knowledge-about-computers./</link>
+      <title>Encouraging College Students to Acquire Computer Knowledge</title>
+      <link>https://0xhoang.github.io/2008/08/encouraging-college-students-to-acquire-computer-knowledge/</link>
       <pubDate>Fri, 01 Aug 2008 02:01:58 +0530</pubDate>
       
-      <guid>https://0xhoang.github.io/2008/08/encourage-the-college-student-to-acquire-knowledge-about-computers./</guid>
-      <description>Fundamental Elementary Algorithm and Data Structure Build monolithic website about Ecommerce Frontend Coding basic with Html, Css, Javascript
-Backend Coding basic with Php, Mysql, C, C#, Java, Winforms, ASP.NET MVC</description>
+      <guid>https://0xhoang.github.io/2008/08/encouraging-college-students-to-acquire-computer-knowledge/</guid>
+      <description>Introduction Encouraging college students to embark on a journey of computer knowledge, starting from the fundamentals and expanding their horizons.
+Fundamental Skills Elementary Algorithms and Data Structures
+Building a foundation in algorithms and data structures. Creating a Monolithic Ecommerce Website
+Understanding the fundamentals of web development by building a monolithic e-commerce website. Frontend Development HTML, CSS, and JavaScript Exploring the basics of web development through HTML, CSS, and JavaScript. Backend Development PHP, MySQL, C, C#, Java</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://0xhoang.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://0xhoang.github.io/about/</guid>
-      <description>My name is Hoàng. I&amp;rsquo;m a Software Engineering living in Ho Chi Minh City. This is my website.</description>
+      <description>Introduction Greetings! I&amp;rsquo;m Hoàng, a passionate Software Engineer residing in the bustling city of Ho Chi Minh. This website serves as a digital hub to share my experiences, insights, and adventures in the world of software development. I&amp;rsquo;m excited to connect, collaborate, and explore the boundless possibilities of the tech universe with you. Feel free to join me on this exciting journey!</description>
     </item>
     
   </channel>
